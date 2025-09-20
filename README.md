@@ -50,7 +50,7 @@ Preprocessing:
 
 ### 🔹 Results Visualization
 
-<img src="figure.png" alt="" width="65%"/>
+<img src="figure.png" alt="" width="100%"/>
 
 </div>
 
